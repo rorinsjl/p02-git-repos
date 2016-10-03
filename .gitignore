@@ -1,0 +1,6 @@
+.DS_store
+Thumbs.db
+*.jpg
+
+It is important to add this file for MAC users.
+Git ignore file: a file we don't want to sync with Smartgit
